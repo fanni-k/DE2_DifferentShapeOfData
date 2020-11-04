@@ -1,0 +1,4 @@
+Excercise in Redis
+
+r.exists('kiss_fanni_one')
+r.delete('kiss_fanni_one')
