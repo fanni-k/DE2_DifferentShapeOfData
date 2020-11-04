@@ -1,0 +1,4 @@
+Excercise in MongoDB
+
+for listing in airbnb.find({ $or: [{"address.country_code": "US"}, {"address.market": "M."}).
+    pprint.pprint(listing['address'])
